@@ -4,9 +4,11 @@
 
 MyTime is a 💪 task management app built with ⚛️ React Native and 🥳 Expo, designed to ✨ enhance personal productivity and streamline ⏰ management.
 
-![sign-up](https://github.com/user-attachments/assets/2fd4b223-e74e-461d-b80a-2ada74e20f70)
-![Videos](https://github.com/user-attachments/assets/6c1c6fe2-53ce-4965-8dc6-386406448593)
-![Calendar](https://github.com/user-attachments/assets/3f18a2b5-1405-4ccd-9ba3-7aa4e89f7593)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2fd4b223-e74e-461d-b80a-2ada74e20f70" alt="sign-up" width="250"/>
+  <img src="https://github.com/user-attachments/assets/6c1c6fe2-53ce-4965-8dc6-386406448593" alt="Videos" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3f18a2b5-1405-4ccd-9ba3-7aa4e89f7593" alt="Calendar" width="250"/>
+</p>
 
 ## Download APK (Android App)
 
@@ -27,7 +29,7 @@ The app also includes an educational screen that delivers 🎥 educational video
 The app enables users to 📆 create and manage tasks with attributes like 📅 due dates, 🔺 priorities, and 📊 status tracking. It is an ideal solution for individuals looking to take control of their schedule, efficiently manage tasks, and stay 🗂️ organized.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3d863cd7-588d-4de4-bf35-734f6e265ee4" alt="Home" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3d863cd7-588d-4de4-bf35-734f6e265ee4" alt="Home" width="200"/>
 </p>
 
 
