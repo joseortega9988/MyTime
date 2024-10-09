@@ -8,7 +8,7 @@ MyTime is a 💪 task management app built with ⚛️ React Native and 🥳 Exp
 ![Videos](https://github.com/user-attachments/assets/6c1c6fe2-53ce-4965-8dc6-386406448593)
 ![Calendar](https://github.com/user-attachments/assets/3f18a2b5-1405-4ccd-9ba3-7aa4e89f7593)
 
-## Download APK
+## Download APK (Android App)
 
 You can download the APK for the MyTime App from the following link:
 
