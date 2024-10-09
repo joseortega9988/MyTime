@@ -1,0 +1,45 @@
+{
+  "expo": {
+    "name": "Mytime",
+    "slug": "Mytime",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/Icon.png",
+
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/cards3.png",
+      "resizeMode": "contain"
+    },
+    "scheme": "mytime",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/Icon.png",
+        "backgroundColor": "#ffffff"
+
+      },
+      "package": "com.reactnative.MyTime"
+    },
+    "web": {
+      "favicon": "./assets/Icon.png"
+    },
+    "plugins": [
+      "expo-router",
+      "expo-font"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "21b09ed1-0240-466f-b69f-dabb919f9f8f"
+      }
+    }
+  }
+}
