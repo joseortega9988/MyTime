@@ -12,7 +12,11 @@ MyTime is a 💪 task management app built with ⚛️ React Native and 🥳 Exp
 
 You can download the APK for the MyTime App from the following link:
 
-[Download MyTime APK](#)
+[Download MyTime APK](https://drive.google.com/file/d/1loFDiAcy0L9hP6iAwQEiWkkvkYKEAecZ/view?usp=sharing)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e80aa374-732f-4163-a1fb-2b01923c92a3" alt="Icon2" width="100"/>
+</p>
 
 ## Overview
 
@@ -22,21 +26,30 @@ The app also includes an educational screen that delivers 🎥 educational video
 
 The app enables users to 📆 create and manage tasks with attributes like 📅 due dates, 🔺 priorities, and 📊 status tracking. It is an ideal solution for individuals looking to take control of their schedule, efficiently manage tasks, and stay 🗂️ organized.
 
-![Home](https://github.com/user-attachments/assets/3d863cd7-588d-4de4-bf35-734f6e265ee4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3d863cd7-588d-4de4-bf35-734f6e265ee4" alt="Home" width="250"/>
+</p>
 
 
 ## Features
 
 - **Task Management**: ✏️ Create, 🗑️ delete, and 👀 view tasks with details such as task name, 📅 due date,etc.
 - **Priority System**: Easily recognizable 🔺 priority (🔴 High, 🟡 Mid, 🟢 Low) levels with visual indicators to help users differentiate between tasks.
+
 ![High](https://github.com/user-attachments/assets/18e5ddc2-62a7-47a6-8cf1-e63435fc6945)
 ![Yellow](https://github.com/user-attachments/assets/98fe6940-5b4b-4164-b57d-b10c4103ae1c)
 ![green](https://github.com/user-attachments/assets/a316ddf6-cd2f-48f1-a264-8ed32c812634)
+
 - **Dynamic Date Labels**: Automatically generated labels such as '📅 Today,' '🗓️ Tomorrow,' and '⏳ Expired' to keep users aware of deadlines.
+
 ![Due](https://github.com/user-attachments/assets/5b0cd492-7d82-4303-aaac-995009144e70)
+
 - **User Authentication**: 🔒 Secure sign-up, sign-in, and authentication using 🛠️ Appwrite.
-![sign-in](https://github.com/user-attachments/assets/59100abb-8a86-4200-ad15-2e101c1d6618)
+
+<img src="https://github.com/user-attachments/assets/59100abb-8a86-4200-ad15-2e101c1d6618" alt="sign-in" width="250"/>
+
 - **User-Friendly Navigation**: 🚀 Easy-to-use navigation flow with a well-structured tab bar.
+
 ![TabBar](https://github.com/user-attachments/assets/d3a1e7ea-373e-427f-8c2b-4135c4882de6)
 
 ## Getting Started
@@ -91,8 +104,10 @@ The development of MyTime involved multiple rounds of user testing:
 
 2. **Second Testing Phase**: Over 30 participants tested the app, and feedback was collected through 📝 surveys and personal communication. This testing helped identify 🐞 bugs, including font issues, description text problems, and minor UI improvements. Additionally, participants suggested new features such as ⏰ reminders, repeating tasks, and custom labels that could come in nexts versions.
 
-![UserTest](https://github.com/user-attachments/assets/c2aeaa59-a784-41e9-b004-b45c97787aec)
-![UserTest2](https://github.com/user-attachments/assets/72f5afeb-6067-497f-a7c1-73e6cc92df0c)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c2aeaa59-a784-41e9-b004-b45c97787aec" alt="UserTest" width="250"/>
+  <img src="https://github.com/user-attachments/assets/72f5afeb-6067-497f-a7c1-73e6cc92df0c" alt="UserTest2" width="250"/>
+</p>
 
 ### Addressed Bugs and Improvements
 
@@ -111,9 +126,12 @@ The development of MyTime involved multiple rounds of user testing:
 
 By using MyTime, users will be able to manage their daily activities more effectively, reduce stress by organizing tasks, and increase their productivity. The app's simplicity, combined with a user-friendly interface, comprehensive task lists, and a Learning screen to explore time management techniques, aims to enhance users' overall productivity.
 
-![Profile](https://github.com/user-attachments/assets/a66e1ead-f80f-440e-b80a-0e6edc044613)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a66e1ead-f80f-440e-b80a-0e6edc044613" alt="Profile" width="250"/>
+</p>
 
 Thank you for your interest in MyTime!
-![logo](https://github.com/user-attachments/assets/67a22ee5-0a22-4efe-a4d5-132a03e9bde5)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/67a22ee5-0a22-4efe-a4d5-132a03e9bde5" alt="logo"/>
+</p>
 
